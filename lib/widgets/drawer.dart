@@ -22,7 +22,7 @@ class MyDrawer extends StatelessWidget {
                     style: TextStyle(color: Colors.white),
                   ),
                   currentAccountPicture: CircleAvatar(
-                    backgroundColor: Colors.green,
+                    backgroundColor: Colors.blueGrey,
                     child: Icon(
                       Icons.person,
                       color: Colors.white,
@@ -57,7 +57,7 @@ class MyDrawer extends StatelessWidget {
                 color: Colors.white,
               ),
               title: Text(
-                "EMail Me",
+                "Email Me",
                 style: TextStyle(color: Colors.white),
                 textScaleFactor: 1.2,
               ),
