@@ -1,0 +1,68 @@
+{
+    "products": [
+        {
+            "id": 1,
+            "name": "Sweater",
+            "desc": "This is a red Sweatwer",
+            "price": 1200,
+            "color": "#33505a",
+            "image": "assets/products/1a.jpg"
+        },
+        {
+            "id": 2,
+            "name": "Bright Red Sweater",
+            "desc": "This is a bright red Sweatwer",
+            "price": 1500,
+            "color": "#00ac51",
+            "image": "assets/products/2ha.jpg"
+        },
+        {
+            "id": 3,
+            "name": "Checks Sweater",
+            "desc": "This is a checks red Sweatwer",
+            "price": 1000,
+            "color": "#33505a",
+            "image": "assets/products/3ha.jpg"
+        },
+        {
+            "id": 4,
+            "name": "Blazer",
+            "desc": "This is a Blazer",
+            "price": 1900,
+            "color": "#33505a",
+            "image": "assets/products/4ha.jpg"
+        },
+        {
+            "id": 5,
+            "name": "Jacket",
+            "desc": "This is a Jacket",
+            "price": 1190,
+            "color": "#33505a",
+            "image": "assets/products/5ha.jpg"
+        },
+        {
+            "id": 6,
+            "name": "Black Jacket",
+            "desc": "This is a Black Jacket",
+            "price": 700,
+            "color": "#33505a",
+            "image": "assets/products/6ha.jpg"
+        },
+        {
+            "id": 7,
+            "name": "Cut Sweater",
+            "desc": "This is a cut Sweatwer",
+            "price": 120,
+            "color": "#33505a",
+            "image": "assets/products/7ha.jpg"
+        },
+        {
+            "id": 8,
+            "name": "Green Cut Sweater",
+            "desc": "This is a green cut Sweatwer",
+            "price": 100,
+            "color": "#33505a",
+            "image": "assets/products/8ha.jpg"
+        }
+    ]
+}

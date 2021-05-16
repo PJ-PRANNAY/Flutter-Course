@@ -17,7 +17,7 @@ class ItemWidget extends StatelessWidget {
         subtitle: Text(item.desc),
         trailing: Text(
           "\u{20B9}${item.price}",
-          textScaleFactor: 1.6,
+          textScaleFactor: 1.5,
           style:
               TextStyle(color: Colors.deepPurple, fontWeight: FontWeight.bold),
         ),
